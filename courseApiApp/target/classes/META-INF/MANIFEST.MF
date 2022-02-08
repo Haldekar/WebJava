@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: shri
+Build-Jdk: 17.0.1
+Implementation-Title: springBootProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.project.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/courseApiApp
+Created-By: Maven Integration for Eclipse
+
